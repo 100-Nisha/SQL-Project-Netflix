@@ -1,5 +1,7 @@
 # 🎬 Netflix Movies and TV Shows Data Analysis using SQL
 
+![Image_ALT]()
+
 ## 📌 Project Overview
 
 This project focuses on analyzing Netflix Movies and TV Shows data using SQL.
